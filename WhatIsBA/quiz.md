@@ -1,9 +1,9 @@
 You excel at finding the root causes of process failures but do not have much patience in meetings or discussions with others. Which skill should you work on?
 
-    - problem-solving
-    - communication
-    - > [listening]
-    - negotiation
+- problem-solving
+- communication
+- > [listening]
+- negotiation
 
 
 
