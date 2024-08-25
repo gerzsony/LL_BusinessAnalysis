@@ -1,19 +1,19 @@
-You excel at finding the root causes of process failures but do not have much patience in meetings or discussions with others. Which skill should you work on?
+###You excel at finding the root causes of process failures but do not have much patience in meetings or discussions with others. Which skill should you work on?
 
 - problem-solving
 - communication
-- > [listening]
+- > listening
 - negotiation
 
 
 
 
-Adaku is very good at resolving conflicts once they emerge but has difficulty avoiding them. Which skill should she improve?
+###Adaku is very good at resolving conflicts once they emerge but has difficulty avoiding them. Which skill should she improve?
 
-    -negotiation
-    -communication
-    -trustworthiness
-    -[facilitation]
+    - negotiation
+    - communication
+    - trustworthiness
+    - > facilitation
 
 
 In what decade was business analysis formalized as a profession?
