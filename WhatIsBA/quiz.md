@@ -2,7 +2,7 @@
 
 - problem-solving
 - communication
-- > listening
+- ** listening**
 - negotiation
 
 
@@ -13,66 +13,66 @@
 - negotiation
 - communication
 - trustworthiness
-- > facilitation
+- **facilitation**
 
 
-In what decade was business analysis formalized as a profession?
+### In what decade was business analysis formalized as a profession?
 
-    -the 1980s
-    -[the 2000s]
-    -the 1960s
-    -the 1940s
-
-
-
-
-In what three ways is the term "business analysis" used?
-
-    -in sales, programming, or human resources
-    -as a method, philosophy, or marketing tool
-    -[as a profession, competency, or research discipline]
-    -in statistics, economics, or accounting
+- the 1980s
+- **the 2000s**
+- the 1960s
+- the 1940s
 
 
 
 
+### In what three ways is the term "business analysis" used?
 
-What is the role of a business analyst?
-
-    -to create computer networks
-    -to build complex numerical models
-    -to calculate the relationship between costs and profits
-    -[to provide a bridge between technical and business viewpoints]
-
-
-
-
-Paolo is a new graduate from business school. How can he quickly move into business analysis?
-
-    -[Pair with a more experienced professional.]
-    -Learn about finance and sales.
-    -Study information technology.
+- in sales, programming, or human resources
+- as a method, philosophy, or marketing tool
+- **as a profession, competency, or research discipline**
+- in statistics, economics, or accounting
 
 
 
 
 
-What is the purpose of research in business analysis?
+### What is the role of a business analyst?
 
-    -to generate a complete set of requirements
-    -[to inform decision-making]
-    -to examine what-if scenarios
-    -to improve infrastructure
-
-
+- to create computer networks
+- to build complex numerical models
+- to calculate the relationship between costs and profits
+- **to provide a bridge between technical and business viewpoints**
 
 
 
 
+### Paolo is a new graduate from business school. How can he quickly move into business analysis?
 
-If you are an experienced professional in marketing, what strengths do you bring to business analysis?
+- **Pair with a more experienced professional.**
+- Learn about finance and sales.
+- Study information technology.
 
-    -understanding of social media
-    -accounting and statistics
-    -customer contacts
-    -[customer advocacy]
+
+
+
+
+### What is the purpose of research in business analysis?
+
+- to generate a complete set of requirements
+- **to inform decision-making**
+- to examine what-if scenarios
+- to improve infrastructure
+
+
+
+
+
+
+
+### If you are an experienced professional in marketing, what strengths do you bring to business analysis?
+
+- understanding of social media
+- accounting and statistics
+- customer contacts
+- **customer advocacy**
